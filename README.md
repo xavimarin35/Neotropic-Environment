@@ -37,3 +37,11 @@ designed, it fails to achieve the intended level of optimisation.
   * **MacOS:** Yes
 
 ## Links
+* [Full Project](https://github.com/xavimarin35/Neotropic-Environment/releases/download/1.0/UE_Project_XavierMarin.zip)
+* [Documentation](https://drive.google.com/file/d/1xvrGokC0RNZPbZjBzxA898cMYLI-7fvq/view?usp=sharing)
+* [Video Tutorial](https://youtu.be/10g7P9KgXp8)
+
+## License
+© Xavi Marín
+
+Licensed under the [MIT License](LICENSE)
